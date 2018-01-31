@@ -24,6 +24,10 @@ When driverless cars become common-place, they will no longer have sterring whee
       custom mapping for drive-thru, 
       order/pay-in-car
       
+ Airport:
+     check-in,  
+     parking
+     
  Intersections: 
     time to light change, 
     integration of public transport
